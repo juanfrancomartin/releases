@@ -5,3 +5,4 @@ agregando mas cosas al main para release
 nueva funcionalidad
 ultima funcionalidad
 arreglando bugs
+Version 1.1
